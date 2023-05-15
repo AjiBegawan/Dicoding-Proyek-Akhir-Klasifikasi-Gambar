@@ -1,0 +1,5 @@
+Identitas Diri
+Nama : Indiarto Aji Begawan
+Email : indiartoaji13@gmail.com
+Learning Path : Belajar Machine Learning untuk Pemula
+Materi : Proyek Akhir - Klasifikasi Gambar
